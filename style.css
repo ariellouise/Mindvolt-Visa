@@ -17,13 +17,22 @@
   background-size: cover;
 }
 
+
+/* .w-100 {
+  padding: 25px;
+} */
+
 #gradbox {
   background: linear-gradient(to right,  #f9a102 0%,#f7b60a 51%,#f4ca12 100%);
   background-size: cover;
-  }
+  min-height: 488px;
+  max-width: 1300px;
+}
+
 
 .logoimage {
-  padding-top: 50px;
+  padding-top: 100px;
+
 }
 
 
